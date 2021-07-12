@@ -24,6 +24,8 @@ setup(
     ],
     install_requires=[
         'colorama',
+        'bs4',
+        'requests',
     ],
 
     entry_points={
