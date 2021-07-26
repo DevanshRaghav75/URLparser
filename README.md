@@ -13,9 +13,11 @@
 
 ## Args
 
-* `-u`, `--url` - Specify the domain.
-* `-m`, `--max-urls` - max URLs you want to crawl.
-* `-h`, `--help` - Display all args and usage
+|Args          | Discription
+|--------------|--------------------------------
+|-u/--url      | Specify the domain.
+|-m/--max-urls | max URLs you want to crawl.
+|-h/--help     | Display all args and usage
 
 ## Installation
 
