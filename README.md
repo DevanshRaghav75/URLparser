@@ -9,7 +9,7 @@
 
 ## What is URLparser?
 
-`URLparser` extractes URLs from the specified domain and saves the output to a file.
+URLparser is a CLI tool extracts URLs from the given URL
 
 ## Args
 
